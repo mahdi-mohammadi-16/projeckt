@@ -1,0 +1,66 @@
+ body {
+    background-image: url(mini_AdobeStock_300774394.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+ }
+ .demo{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: white;
+    position: fixed;
+    left: 550px;
+    
+ }
+ li{
+   display: inline-block;
+   margin: 0px 70px;
+ }
+ 
+ .guide{
+    margin: 13px 5px;
+    width: 400px;
+    height: 700px;
+    background-color: black;
+    opacity: 0.3;
+   
+ }
+ .text{
+   position: absolute;
+   top: 12px;
+   width: 400px;
+   color: white;
+   text-align: center;
+   margin: 1px 4px;
+   display: inline-block;
+   padding-top: 40px;
+   font-size: 20px;
+}
+h1{
+   padding: 12px;
+}
+.P1{
+   font-size: 23PX;
+   padding: 0px 60px 25px 60px;
+   font-family:"Brush Script MT", cursive;
+   opacity: 0.6;
+
+}
+.p2{
+   font-size: 29px;
+   margin: 8px;
+}
+.button{
+   width: 192px;
+   background-color: orange;
+   padding: 0px;
+   color: white;
+   margin: 0px 0px 20px 0px;
+}
+.a{
+   color: white;
+   
+   text-decoration: none;
+}
+ 
