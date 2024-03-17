@@ -1,0 +1,220 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.secular-one-regular {
+    font-family: "Secular One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.bag{
+   
+    width: 1530px;
+    height: 1500px;
+}
+.page1{
+color: #000;
+
+}
+.img1{
+    width: 600px;
+}
+.introduction{
+    color: #000;
+    box-shadow: 0px 5px 8px 10px rgba(0, 0, 0, 0.511), 0px 8px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: right;
+    position: absolute;
+    width: 1350px;
+    height: 600px;
+    top: 60px;
+    left:90px ;
+    background-color: rgb(254, 255, 249);
+}
+.h2{
+    position: absolute;
+    top: 120px;
+    left: 102px;
+    font-size: 40px;
+    font-family:Sans-serif ;
+}
+.h1{
+    position: absolute;
+    top: 167px;
+    left: 102px;
+    font-size: 60px;
+    font-family:Sans-serif ;
+}
+.H1{
+    color: rgb(253, 188, 9);
+    position: absolute;
+    top: 156px;
+    left: 195px;
+    font-size: 62px;
+    font-family: "Secular One", sans-serif;
+}
+.P1{
+    text-align: center;
+    width: 200px;
+    height: 24px;
+    background-color: rgb(250, 193, 35);
+    position: absolute;
+    top: 267px;
+    left: 102px;
+    font-size: 20px;
+    font-family:Sans-serif ;
+}
+.text{
+    width: 500px;
+    position: absolute;
+    top: 310px;
+    left: 102px;
+    text-align: justify;
+    font-family:Sans-serif ;
+}
+#button1{
+    color: #fff;
+    background-color:rgb(250, 193, 35);
+    border-radius: 24px;
+    border: none;
+    width: 173px;
+    height: 32px;
+    position: absolute;
+    top: 410px;
+    left: 102px;
+    text-align: center;
+    font-family:Sans-serif ;
+    padding-top: 15px;
+    text-decoration: none;
+}
+#button1:hover{
+    color: #000000;
+    background-color:rgb(250, 193, 35);
+    border-radius: 24px;
+    border: none;
+    width: 173px;
+    height: 32px;
+    position: absolute;
+    top: 410px;
+    left: 102px;
+    text-align: center;
+    font-family:Sans-serif ;
+
+}
+#about{
+    position: absolute;
+    left: 90px;
+    top: 730px;
+    background-color: rgb(254, 255, 249);;
+    width: 1350px;
+    height: 600px;
+    color: #000000;
+    box-shadow: 0px 5px 8px 10px rgba(0, 0, 0, 0.511), 0px 8px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.img2{
+    width: 220px;
+    height: 254px;
+}
+.yellow{
+    position: absolute;
+    top: 183px;
+    width: 220px;
+    height: 417px;
+    background-color:rgb(250, 193, 35);
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+.instagram{
+    width: 50px;
+    padding-top: 40px;
+}
+.youtube,.twitter{
+    width: 54px;
+}
+
+.about{
+    position: absolute;
+    top: 45px;
+    left: 310px;
+    color: #000;
+    background-color: rgb(254, 255, 249);;
+    width: 960px;
+    height: 110px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 70px;
+    font-family: "Secular One", sans-serif;
+    border: 2px black solid;
+}
+.p3{
+    position: absolute;
+    top: 180px;
+    left: 340px;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.p4{
+    position: absolute;
+    top: 235px;
+    left: 340px;
+    width: 880px;
+    height: 300px;
+    font-size: 18px;
+}
+.box-black{
+    position: absolute;
+    top: 340px;
+    left: 310px;
+    background-color: #4d4d4d	;
+    width: 950px;
+    height: 230px;
+    border-left: 8px black solid;
+    border-radius: 9px;
+}
+.percent1,.percent2,.percent3,.percent4{
+    position: relative;
+    left: 195px;
+}
+.percent1,.percent2,.percent3,.percent4{
+    padding: 30px 0px 0px 45px;
+}
+.box-black-h1{
+    color: #000000;
+    font-family: sans-serif;
+    position: absolute;
+    top: 56px;
+    left: 25px;
+}
+.box-black-p1,.box-black-p2,.box-black-p3{
+    display: inline-block;
+    color: #000000;
+    position: relative;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.box-black-p1{
+    right: 429px;
+    top: 36px;
+}
+.box-black-p2{
+    right: 329px;
+    top: 36px;
+}
+.box-black-p3{
+    right: 224px;
+    top: 36px;
+}
+.box-black-p4{
+    display: inline-block;
+    color: #000000;
+    position: absolute;
+    font-size: 25px;
+    right: 75px;
+    top: 145px;
+    font-family: sans-serif;
+}
+
+
+  
+  
